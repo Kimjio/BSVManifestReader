@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ManifestReader": {
+      "commandName": "Project",
+      "commandLineArgs": "https://prd-storage-game-umamusume.akamaized.net/dl 10021210:Tcxkvfn+yCx3"
+    }
+  }
+}
